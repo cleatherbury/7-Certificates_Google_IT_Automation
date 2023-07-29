@@ -1,4 +1,5 @@
 ## [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
+
 #### by Google
 
 ### About this Course
@@ -18,7 +19,6 @@ We strongly recommend that you’ve taken the prior courses in this program, or 
 * Identify the most common pitfalls of your code and how to fix them
 
 ### Skills gained
-
 >* Improving Software Performance
 >* Managing Scarce Resources
 >* Advanced Troubleshooting
