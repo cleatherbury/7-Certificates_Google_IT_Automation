@@ -20,7 +20,6 @@ At the end of this course, you’ll be able to take a description of a problem a
 * Build a solution using the skills you have learned
 
 ### Skills gained
-
 >* Serialization
 >* Building a Solution
 >* Creating and Translating Media Files
