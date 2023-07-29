@@ -1,4 +1,5 @@
 ## [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
+
 #### by Google
 
 ## About this Course
@@ -7,10 +8,6 @@ In this course, we'll give you the tools to quickly identify and solve real-worl
 We picked examples that include general system issues, issues with software that someone else wrote, and issues with programs that we wrote. We'll talk about problems that can affect any operating system, and we'll also look at challenges specific to certain platforms and scripting languages.
 
 We strongly recommend that you’ve taken the prior courses in this program, or already have knowledge of Python and Linux so that you can follow along with our troubleshooting examples.
-
-
-
-
 
 ### What you'll learn
 * Understand the benefits of configuration management and infrastructure as code
