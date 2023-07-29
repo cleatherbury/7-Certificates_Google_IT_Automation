@@ -11,7 +11,7 @@ We'll start off by diving into the basics of writing a computer program. Along t
 * Understand how to use the basic Python structures: strings, lists, and dictionaries
 * Create your own Python objects
 
-### Skills you will gain
+### Skills gained
 
 * Basic Python 
 * Data Structures

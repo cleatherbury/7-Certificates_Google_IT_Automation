@@ -8,7 +8,7 @@ We’ll kick off by exploring how to execute Python locally, and organize and us
 
 We’ll also explain how to set up your own developer environment in your machine. This is a key step in being able to write and deploy powerful automation tools.
 
-### WHAT YOU WILL LEARN
+### What you will learn
 * Setup, configure, and use your own developer environment in Python
 
 * Manipulate files and processes running on the Operating System using Python
@@ -17,7 +17,7 @@ We’ll also explain how to set up your own developer environment in your machin
 
 * Know when to choose Bash or Python, and create small scripts using Bash
 
-### SKILLS YOU WILL GAIN
+### Skills gained
 >* Setting up your Development Environment
 >* Regular Expression (REGEX)
 >* Testing in Python

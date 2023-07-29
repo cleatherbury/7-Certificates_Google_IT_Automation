@@ -17,7 +17,7 @@ We strongly recommend that you’ve taken the prior courses in this program, or 
 
 * Identify the most common pitfalls of your code and how to fix them
 
-### Skills you'll gain
+### Skills gained
 
 >* Improving Software Performance
 >* Managing Scarce Resources

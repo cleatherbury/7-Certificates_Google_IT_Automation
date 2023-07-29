@@ -21,7 +21,7 @@ We strongly recommend that you’ve taken the prior courses in this program, or 
 
 * Deploy changes in a safe manner
 
-### Skills you'll gain
+### Skills gained
 >* Basic Python Data Structures
 >* Fundamental Programming Concepts
 >* Basic Python Syntax

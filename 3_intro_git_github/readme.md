@@ -10,7 +10,7 @@ By the end of this course, you'll be able to store your code's history in Git an
 
 In order to follow along and complete the assessments, you’ll need a computer where you can install Git or ask your administrator to install it for you.
 
-### WHAT YOU WILL LEARN
+### What you will learn
 * Understand why version control is a fundamental tool for coding and collaboration
 
 * Install and run Git on your local machine 
@@ -19,7 +19,7 @@ In order to follow along and complete the assessments, you’ll need a computer 
 
 * Collaborate with others through remote repositories
 
-### SKILLS YOU WILL GAIN
+### Skills gained
 >* Using Git
 >* Version Control Systems
 >* Interacting with GitHub
