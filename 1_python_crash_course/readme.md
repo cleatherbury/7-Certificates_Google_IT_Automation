@@ -14,8 +14,8 @@ We'll start off by diving into the basics of writing a computer program. Along t
 * Create your own Python objects
 
 ### Skills gained
-* Basic Python 
-* Data Structures
-* Fundamental Programming Concepts
-* Basic Python SyntaxPython Programming
-* Object-Oriented Programming (OOP)
+>* Basic Python 
+>* Data Structures
+>* Fundamental Programming Concepts
+>* Basic Python SyntaxPython Programming
+>* Object-Oriented Programming (OOP)
