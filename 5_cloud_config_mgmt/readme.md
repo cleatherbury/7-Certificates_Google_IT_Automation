@@ -1,6 +1,7 @@
 ## [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
 
 #### by Google
+![Cert-CloudConfig Mgmt](https://github.com/cleatherbury/Google_IT_Automation/assets/49545285/77c217fc-2cfa-456d-8067-fcedcd529c68)
 
 ## About this Course
 In this course, we'll give you the tools to quickly identify and solve real-world problems that you might come across in your IT role. We'll look at a bunch of different strategies and approaches for tackling the most common pitfalls of your code and IT infrastructure. You'll learn strategies for approaching almost any technical problem and then see how those apply to solving different real-world scenarios. 
