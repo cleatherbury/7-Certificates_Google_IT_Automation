@@ -1,4 +1,5 @@
 # [Google IT Automation with Python Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+![Cert-Google_IT_AutomationwithPython](https://github.com/cleatherbury/7-Certificates_Google_IT_Automation/assets/49545285/2854613d-4bac-494f-b1d5-03f895564ed6)
 
 ## About this Professional Certificate
 This new beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
