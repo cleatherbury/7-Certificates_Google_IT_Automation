@@ -1,6 +1,7 @@
 ## [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
 
 #### by Google
+![Cert-IntroGit GitHub](https://github.com/cleatherbury/Google_IT_Automation/assets/49545285/c3b0f70c-f8dd-48c6-9ffb-83ec1e6d6594)
 
 ### About this Course
 In this course, you’ll learn how to keep track of the different versions of your code and configuration files using a popular version control system (VCS) called Git. We'll also go through how to setup an account with a service called GitHub so that you can create your very own remote repositories to store your code and configuration. 
