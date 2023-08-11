@@ -1,4 +1,5 @@
 ## [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
+![Cert-Troubleshoot DebugTechniques](https://github.com/cleatherbury/Google_IT_Automation/assets/49545285/32a453d0-77e0-4506-b6f1-ad229563da22)
 
 #### by Google
 
